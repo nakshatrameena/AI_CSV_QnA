@@ -1,4 +1,3 @@
-# AI CSV QnA
 # AI CSV QnA - Gradio-Based CSV Question Answering & Visualization
 
 ## Project Overview
